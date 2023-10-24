@@ -21,6 +21,10 @@
             "script": "./cartridge/scripts/hooks/payment/processor/basic_credit"
         },
         {
+            "name": "app.payment.processor.training-processor",
+            "script": "./cartridge/scripts/hooks/payment/processor/training-processor"
+        },
+        {
             "name": "app.payment.form.processor.basic_credit",
             "script": "./cartridge/scripts/hooks/payment/processor/basic_credit_form_processor"
         },
